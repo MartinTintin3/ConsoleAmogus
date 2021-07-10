@@ -1,0 +1,22 @@
+{
+  "name": "consoleamogus",
+  "version": "1.0.0",
+  "description": "Uses skeld.js to play among us in the console",
+  "main": "src/index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinGITHUBER/ConsoleAmogus.git"
+  },
+  "author": "martinGITHUBER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinGITHUBER/ConsoleAmogus/issues"
+  },
+  "homepage": "https://github.com/martinGITHUBER/ConsoleAmogus#readme",
+  "dependencies": {
+    "@skeldjs/client": "^2.11.10"
+  }
+}
