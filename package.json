@@ -18,7 +18,9 @@
   "homepage": "https://github.com/martinGITHUBER/ConsoleAmogus#readme",
   "dependencies": {
     "@skeldjs/client": "^2.11.10",
-    "@skeldjs/util": "^2.11.10"
+    "@skeldjs/util": "^2.11.10",
+    "log4js": "^6.3.0",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "eslint": "^7.30.0"
